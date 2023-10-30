@@ -16,15 +16,13 @@
 
 <p  align="center"> 
 
-<img width="5%" title="Java" src="media/icons/Java.svg">
-<img width="5%" title="Selenoid" src="media/icons/Selenoid.svg">
-<img width="5%" title="Selenide" src="media/icons/Selenide.svg">
-<img width="5%" title="Gradle" src="media/icons/Gradle.svg">
-<img width="5%" title="Junit5" src="media/icons/Junit5.svg">
-<img width="5%" title="Allure Report" src="media/icons/Allure.svg">
-<img width="5%" title="Jenkins" src="media/icons/Jenkins.svg">
-<img width="5%" title="RestAssured" src="media/icons/RestAssured.svg">
-<img width="5%" title="Jira" src="media/icons/Jira.svg">
+<img width="5%" title="Java" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Java.svg">
+<img width="5%" title="Selenoid" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Selenoid.svg">
+<img width="5%" title="Selenide" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Selenide.svg">
+<img width="5%" title="Gradle" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Gradle.svg">
+<img width="5%" title="Junit5" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Junit5.svg">
+<img width="5%" title="Allure Report" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Allure.svg">
+<img width="5%" title="Jenkins" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Jenkins.svg">
 
 </p>
 
