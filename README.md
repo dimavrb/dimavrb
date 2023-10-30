@@ -32,12 +32,12 @@
 
 ###  Проект по автоматизации UI тестирования сайта tochka.com
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egolikov&repo=baucenter-product-autotests)](https://github.com/dimavrb/tochka)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimavrb&repo=tochka)](https://github.com/dimavrb/tochka)
 
 ###  Проект по автомазиации API тестирования сервиса reqres.in
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egolikov&repo=reqresin-product-autotests)](https://github.com/dimavrb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimavrb&repo=tochka)](https://github.com/dimavrb)
 
 ###  Проект по автоматизации Mobile тестирования приложения Wikipedia
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egolikov&repo=wikipedia-product-autotests)](https://github.com/dimavrb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dimavrb&repo=tochka)](https://github.com/dimavrb)
