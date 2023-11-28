@@ -16,13 +16,13 @@
 
 <p  align="center"> 
 
-<img width="5%" title="Java" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Java.svg">
-<img width="5%" title="Selenoid" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Selenoid.svg">
-<img width="5%" title="Selenide" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Selenide.svg">
-<img width="5%" title="Gradle" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Gradle.svg">
-<img width="5%" title="Junit5" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Junit5.svg">
-<img width="5%" title="Allure Report" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Allure.svg">
-<img width="5%" title="Jenkins" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Jenkins.svg">
+<a href="https://www.java.com/"><img width="5%" title="Java" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Java.svg"></a>
+<a href="https://aerokube.com/selenoid/"><img width="5%" title="Selenoid" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Selenoid.svg"></a>
+<a href="https://selenide.org"><img width="5%" title="Selenide" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Selenide.svg"></a>
+<a href="https://gradle.org"><img width="5%" title="Gradle" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Gradle.svg"></a>
+<a href="https://junit.org/junit5"><img width="5%" title="Junit5" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Junit5.svg"></a>
+<a href="https://allurereport.org/"><img width="5%" title="Allure Report" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Allure.svg"></a>
+<a href="https://www.jenkins.io/"><img width="5%" title="Jenkins" src="https://github.com/dimavrb/tochka/blob/main/media/logo/Jenkins.svg"></a>
 
 </p>
 
